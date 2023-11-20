@@ -27,7 +27,7 @@ org.eclipse.embedcdt.managedbuild.cross.riscv.core/debug=false
 org.eclipse.embedcdt.managedbuild.cross.riscv.ui/debug=false
 org.eclipse.embedcdt.managedbuild.cross.ui/debug=false
 
-org.eclipse.embedcdt.managedbuild.packs.ui/debug=false
+org.eclipse.embedcdt.managedbuild.packs.ui/debug=true
 
 org.eclipse.embedcdt.packs.core/debug=false
 org.eclipse.embedcdt.packs.ui/debug=false
